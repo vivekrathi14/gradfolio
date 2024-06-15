@@ -7,7 +7,6 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
 
 Vivek is a dynamic software engineer specializing in cutting-edge robotics and automation. Currently at Meta Reality Lab, he revolutionizes multi-camera systems with automated geometric calibration, enhancing the Codec Avatar Platform. Previously, at Amazon, Vivek played a pivotal role in developing Astro, Amazon’s first home robot, designing algorithms that reduced exploration time by 35% and pioneering reinforcement learning frameworks. With a history of high-impact contributions at leading tech companies and a gold medal from his academic journey, Vivek blends technical prowess with innovative problem-solving to drive transformational advancements in robotics and AI.
 
