@@ -1,6 +1,6 @@
 <div style="display: flex; width: 100%;">
   <div style="flex-basis: 15%; max-width: 200px;">
-    <img src="{{ site.url }}/assets/images/profile.png" alt="Profile Image" style="width: 100%; height: auto; border-radius: 50%;">
+    <img src="{{ site.url }}/assets/images/IMG_2504.jpg" alt="Profile Image" style="width: 100%; height: auto; border-radius: 50%;">
   </div>
   <div style="flex-basis: 10%;"></div> <!-- Left Margin -->
   <div style="flex-basis: 65%; text-align: justify; margin-left: 10px;">
