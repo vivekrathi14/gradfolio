@@ -1,3 +1,11 @@
+---
+layout: about
+permalink: /
+profile:
+  align: right
+  image: profile.png
+published: true
+---
 
 Vivek is a dynamic software engineer specializing in cutting-edge robotics and automation. Currently at Meta Reality Lab, he revolutionizes multi-camera systems with automated geometric calibration, enhancing the Codec Avatar Platform. Previously, at Amazon, Vivek played a pivotal role in developing Astro, Amazon’s first home robot, designing algorithms that reduced exploration time by 35% and pioneering reinforcement learning frameworks. With a history of high-impact contributions at leading tech companies and a gold medal from his academic journey, Vivek blends technical prowess with innovative problem-solving to drive transformational advancements in robotics and AI.
 
